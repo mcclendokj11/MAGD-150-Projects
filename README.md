@@ -10,7 +10,10 @@ Triangle, Quad, and Bezier.
 ## Project 06
   This project is a thunder cloud with rain that I made. The main tool that I used in this was the idea of methods to create objects and avoiding the mess of code in the main tab. The methods I used was for the cloud, another was used to make the lighting, and the last method was to create raindrops. 
 ## Project 09
-  Finally, Project 9 was focused around the idea of taking usage of image, sound, and video. For this one, I made a mini showcase of a car with television static at the beginning. For the TV static, I used the image of the static and the sound was produced by using the Whitenoise command. This was timed seconds before playing the MP4 of a Mercedes. Finally, music was played at the same time the video starts.    
+  Finally, Project 9 was focused around the idea of taking usage of image, sound, and video. For this one, I made a mini showcase of a car with television static at the beginning. For the TV static, I used the image of the static and the sound was produced by using the Whitenoise command. This was timed seconds before playing the MP4 of a Mercedes. Finally, music was played at the same time the video starts.
+  
+  [Link](url) and ![Image](src)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mcclendokj11/MAGD-150-Projects/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
