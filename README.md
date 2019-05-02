@@ -1,7 +1,7 @@
 # MAGD 150 Projects
 
 ## Project 05
-  In this Project, I made a television setup that made use of interactive buttons. These buttons were made from two different shapes, a circle and a rectangle. Also, text was displayed to tell what each button does and this was placed on these buttons.
+  In this project, I made a television setup that made use of interactive buttons. These buttons were made from two different shapes, a circle and a rectangle. Also, text was displayed to tell what each button does and this was placed on these buttons.
 ## Project 02
  For this project, I made balloons of different shapes and colors. At the same time, I made use of other shape modes and same goes for the different color modes. The color modes I made use of for the project were RGB, HSB, and Hexadecimal. Also, It used shapes like a 
 Triangle, Quad, and Bezier.
