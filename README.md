@@ -12,4 +12,4 @@ Triangle, Quad, and Bezier.
 ## Project 09
   Finally, Project 9 was focused around the idea of taking usage of image, sound, and video. For this one, I made a mini showcase of a car with television static at the beginning. For the TV static, I used the image of the static and the sound was produced by using the Whitenoise command. This was timed seconds before playing the MP4 of a Mercedes. Finally, music was played at the same time the video starts.
   
-  [Link](url) and ![Image](src)
+  [https://mcclendokj11.github.io/MAGD-150-Projects/](url) and ![Image](src)
