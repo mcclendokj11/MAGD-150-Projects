@@ -1,9 +1,9 @@
 # MAGD 150 Projects
 
 ## Project 05
-
+  
 ## Project 02
-
+ For this project, I made balloons of different shapes and colors. At the same time, I made use of other shape modes and same goes for the different color modes. The color modes I made use of for the project were RGB, HSB, and Hexadecimal.     
 ## Project 03
 
 ## Project 06
